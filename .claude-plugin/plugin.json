@@ -1,0 +1,12 @@
+{
+  "name": "gia-chief-of-staff",
+  "description": "AI executive operations assistant — daily briefings, inbox triage, meeting prep, follow-up management, and pipeline tracking. Powered by GIA governance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Advanced Consulting Experts, LLC",
+    "url": "https://aceexperts.org"
+  },
+  "homepage": "https://aceexperts.org/gia",
+  "repository": "https://github.com/knowledgepa3/gia-chief-of-staff",
+  "license": "MIT"
+}
